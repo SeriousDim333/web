@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(143, 143, 172);
+}
+
+img {
+    width: 10%;
+    border: 10px solid #56382d;
+    border-radius: 10px;
+}
+
+h2 {
+    color: blue;
+}
